@@ -1,0 +1,26 @@
+{
+  "name": "searchimagelinebot",
+  "version": "1.0.0",
+  "description": "\"# charderBodyCompositionAnalyzer\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulchainkang/searchImageLineBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paulchainkang/searchImageLineBot/issues"
+  },
+  "homepage": "https://github.com/Paulchainkang/searchImageLineBot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "linebot": "^1.5.3",
+    "qwant-api": "^0.5.0",
+    "random-int": "^2.0.1",
+    "request": "^2.88.2"
+  }
+}
